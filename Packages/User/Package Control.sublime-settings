@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"DocBlockr",
+		"Drupal",
+		"Drupal Completions",
+		"Drupal Snippets",
+		"Goto Drupal API",
+		"LESS",
+		"lessc",
+		"SFTP"
+	]
+}

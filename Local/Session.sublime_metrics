@@ -1,0 +1,24 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"BracketHighlighter",
+		"DocBlockr",
+		"Drupal Completions",
+		"Drupal Snippets",
+		"Drupal",
+		"Goto Drupal API",
+		"LESS",
+		"Less2Css",
+		"lessc",
+		"Package Control"
+	],
+	"startup_sec": 0.802486,
+	"syntax":
+	{
+		"CSS": 3,
+		"JavaScript": 10,
+		"PHP": 23
+	},
+	"time": 1406904254
+}
