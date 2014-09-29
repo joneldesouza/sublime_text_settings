@@ -4,7 +4,7 @@
 		"/C/Winginx/home"
 	],
 	"last_version": 3065,
-	"last_window_id": 2,
+	"last_window_id": 3,
 	"log_indexing": false,
 	"settings":
 	{
@@ -16,317 +16,20 @@
 				"selected_items":
 				[
 					[
-						"pa",
-						"padding"
-					],
-					[
-						"tex",
-						"text-decoration"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"i",
-						"italic"
-					],
-					[
 						"mar",
-						"margin-bottom"
-					],
-					[
-						"background-",
-						"background-size"
+						"margin-left"
 					],
 					[
 						"ba",
-						"background-repeat"
-					],
-					[
-						"s",
-						"script"
+						"background"
 					],
 					[
 						"pad",
-						"padding-bottom"
+						"padding"
 					],
-					[
-						"text",
-						"text-decoration"
-					],
-					[
-						"te",
-						"text-align"
-					],
-					[
-						"m",
-						"middle"
-					],
-					[
-						"fon",
-						"font-weight"
-					],
-					[
-						"borde",
-						"border-right-style"
-					],
-					[
-						"inline",
-						"inline-block"
-					],
-					[
-						"li",
-						"line-height"
-					],
-					[
-						"co",
-						"color"
-					],
-					[
-						"nav",
-						"nav	Tag"
-					],
-					[
-						"ma",
-						"margin-bottom"
-					],
-					[
-						"wi",
-						"width"
-					]
-				]
-			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 311.0,
-				"selected_items":
-				[
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 448.0
-			},
-			"console":
-			{
-				"height": 0.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/template.php",
-				"/C/Users/Megamidia/Desktop/web-starter-kit-master/app/index.html",
-				"/C/Users/Megamidia/Desktop/chosen/chosen.css",
-				"/C/Winginx/home/assai/sites/all/themes/assai/css/style.css",
-				"/C/Users/Megamidia/Desktop/chosen/index.html",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print--pdf--node--oferta.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print--node--oferta.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.less",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--recipe.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/scripts/main.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--event.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/ofertas/views-view-unformatted--ofertas--block-1.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print.node--oferta.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--page.tpl.php",
-				"/C/Users/Megamidia/Desktop/teste.html",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--event.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/page.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--article.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node--empresa.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node--article.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/html.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/carvalho.info",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/scripts/main.js",
-				"/C/Users/Megamidia/Desktop/slick-master/index.html",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-results--block.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-bar.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-bar--block.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-results.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-vote.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/poll-results--block.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/main.less",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/page.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.css",
-				"/C/Users/Megamidia/Desktop/Nova pasta (2)/acknowledgements.txt",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/base/typography.less",
-				"/C/Winginx/home/grupocarvalho/sites/default/modules/gcarvalho/gcarvalho.info",
-				"/C/Winginx/home/grupocarvalho/sites/default/modules/gcarvalho/gcarvalho.module",
-				"/C/Winginx/home/grupocarvalho/sites/all/libraries/getlocations/markers/various/various.ini",
-				"/C/Winginx/home/grupocarvalho/sites/all/libraries/getlocations/markers/misc/misc.ini",
-				"/C/Users/Megamidia/Desktop/less.js-windows/README.md",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/Default (Linux).sublime-keymap",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/Less2Css/README.md",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
-				"/C/Winginx/home/aprova/sites/all/themes/responsive_bartik/templates/comment.tpl.php",
-				"/C/Winginx/home/aprova/sites/all/modules/nodeaccess_userreference/README.txt",
-				"/C/Winginx/home/aprova/sites/default/settings.php",
-				"/C/Winginx/home/grupocarvalho/sites/default/settings.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/plupload/README.txt",
-				"/C/Winginx/home/summit/sites/default/settings.php",
-				"/C/Winginx/home/megawebnews/sites/default/modules/megawebnews/theme/ipc.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/js/google_store_locator_loc_aware.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/google_store_locator.module",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/js/google_store_locator.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/google_store_locator.views_default.inc",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/README.txt",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/theme/google_store_locator.css",
-				"/C/Winginx/home/paranatrade/sites/all/themes/prtradenews/page.tpl.php",
-				"/C/Users/Megamidia/Desktop/prtradenews/page.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/template.php",
-				"/C/Winginx/home/revistas/teresinashopping/index.php",
-				"/C/Winginx/home/assai/tabloide/08-09-14/pageflipdata/pageflipdata.xml",
-				"/C/Winginx/home/assai/tabloide/08-09-14/pageflipdata.xml",
-				"/C/Winginx/home/revistas/teresinashopping/js/main.js",
-				"/C/Winginx/home/assai/emag/01/pageflipdata/pageflipdata.xml",
-				"/C/Users/Megamidia/Desktop/FileZilla.xml",
-				"/C/Winginx/home/dev/sites/default/settings.php",
-				"/C/Winginx/home/mailrelay/mailrelay_statistics/mailrelay_statistics_location.inc",
-				"/C/Winginx/home/paranatrade/sftp-config.json",
-				"/C/Winginx/home/setransp/sftp-config.json",
-				"/C/Winginx/home/assai/sftp-config.json",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/main.css",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/components/alerts.less",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/base/layout.less",
-				"/C/Winginx/home/paranatrade/sites/all/themes/paranatrade/css/global.css",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
-				"/C/Users/Megamidia/Desktop/index.html"
-			],
-			"find":
-			{
-				"height": 34.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"loja",
-					"<h2>",
-					"</h2>",
-					"block-views-empresas-block-1",
-					"location",
-					"search",
-					"filter",
-					"PDF",
-					"PDFlink",
-					"print",
-					" ."
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"<h3>",
-					"</h3>"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 23.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.sftp":
-			{
-				"height": 133.0
-			},
-			"replace":
-			{
-				"height": 42.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 286.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 640.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
 					[
 						"font",
 						"font-size"
-					],
-					[
-						"mar",
-						"margin"
 					],
 					[
 						"marg",
@@ -335,10 +38,6 @@
 					[
 						"a",
 						"a"
-					],
-					[
-						"ba",
-						"background-color"
 					],
 					[
 						"border",
@@ -373,10 +72,6 @@
 						"script"
 					],
 					[
-						"pad",
-						"padding-bottom"
-					],
-					[
 						"text",
 						"text-decoration"
 					],
@@ -422,25 +117,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.less",
-					"settings":
-					{
-						"buffer_size": 26554,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/scripts/main.js",
-					"settings":
-					{
-						"buffer_size": 3476,
-						"line_ending": "Unix"
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
@@ -470,28 +146,9 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/C/Winginx/home",
-				"/C/Winginx/home/assai",
-				"/C/Winginx/home/assai/sites",
-				"/C/Winginx/home/assai/sites/all",
-				"/C/Winginx/home/assai/sites/all/themes",
-				"/C/Winginx/home/assai/sites/all/themes/assai",
-				"/C/Winginx/home/assai/sites/all/themes/assai/css",
-				"/C/Winginx/home/grupocarvalho",
-				"/C/Winginx/home/grupocarvalho/sites",
-				"/C/Winginx/home/grupocarvalho/sites/all",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/modules",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/modules/getlocations_fields",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/scripts",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates"
-			],
 			"file_history":
 			[
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/jquery.mCustomScrollbar.css",
 				"/C/Winginx/home/assai/sites/all/themes/assai/js/custom.js",
 				"/C/Winginx/home/assai/sites/all/themes/assai/css/style.css",
 				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/template.php",
@@ -640,6 +297,410 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 133.0
+			},
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 344.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"php",
+						"php"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"tex",
+						"text-transform"
+					],
+					[
+						"block-bl",
+						"block-block-4"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"marg",
+						"margin-bottom"
+					],
+					[
+						"a",
+						"a"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"background",
+						"background-clip"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"background-",
+						"background-size"
+					],
+					[
+						"s",
+						"script"
+					],
+					[
+						"m",
+						"middle"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"borde",
+						"border-right-style"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"li",
+						"line-height"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"nav",
+						"nav	Tag"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"wi",
+						"width"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 311.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 448.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Winginx/home",
+				"/C/Winginx/home/assai/sites",
+				"/C/Winginx/home/assai/sites/all",
+				"/C/Winginx/home/assai/sites/all/themes",
+				"/C/Winginx/home/assai/sites/all/themes/assai",
+				"/C/Winginx/home/assai/sites/all/themes/assai/templates/campanhas",
+				"/C/Winginx/home/grupocarvalho",
+				"/C/Winginx/home/grupocarvalho/sites",
+				"/C/Winginx/home/grupocarvalho/sites/all",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/scripts",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates"
+			],
+			"file_history":
+			[
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view--tv-carvalho--block.tpl.php",
+				"/C/Winginx/home/assai/sites/all/themes/assai/css/style.css",
+				"/C/Winginx/home/assai/sites/all/themes/assai/template.php",
+				"/C/Winginx/home/assai/sites/all/themes/assai/templates/campanhas/views-view-unformatted--campanhas-novo--block-2.tpl.php",
+				"/C/Winginx/home/assai/sites/all/themes/assai/templates/campanhas/views-view-unformatted--campanhas-novo--block-1.tpl.php",
+				"/C/Winginx/home/assai/sites/all/themes/assai/js/custom.js",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/getlocations.markerinfo.inc",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/getlocations.markercluster.inc",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view-unformatted--lojas--block-4.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.less",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view-unformatted--lojas--block-1.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/scripts/main.js",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--store.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/fonts/style.css",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/fonts/demo.html",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/template.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view--lojas--block-4.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/js/markerclusterer.js",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/js/markerclusterer_packed.js",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/page.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--event.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view-unformatted--tv-carvalho--block.tpl.php",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/info/exclude",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/config",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/description",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/HEAD",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/index",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Installed Packages/lessc.sublime-package",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
+				"/C/Winginx/home/paranatrade/sites/all/modules/paranatrade/paranatrade.module",
+				"/C/Winginx/home/localhost/public_html/radiotartine/index.html",
+				"/C/Winginx/home/paranatrade/sites/all/modules/paranatrade/paranatrade.js",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/jquery.mCustomScrollbar.css",
+				"/C/Users/Megamidia/Desktop/Nova pasta (2)/pageflipdata.xml",
+				"/C/Users/Megamidia/Desktop/Nova pasta (2)/Nova pasta/pageflipdata.xml",
+				"/C/Users/Megamidia/Desktop/pageflipdata.xml",
+				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/pageflipdata.xml",
+				"/C/Users/Megamidia/Desktop/index.html",
+				"/C/Users/Megamidia/Desktop/05/pageflipdata/pageflipdata.xml",
+				"/C/Users/Megamidia/Desktop/05/textLayout_1.0.0.595.swz",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/getlocations.module",
+				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/pageflipdata 2.xml",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/carvalho.info",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view--tv-carvalho--block.tpl - Cópia.php",
+				"/C/Users/Megamidia/Desktop/malihu-custom-scrollbar-plugin-3.0.4/examples/style.css",
+				"/C/Users/Megamidia/Desktop/malihu-custom-scrollbar-plugin-3.0.4/examples/simple_example.html",
+				"/C/Users/Megamidia/Desktop/web-starter-kit-master/app/index.html",
+				"/C/Users/Megamidia/Desktop/chosen/chosen.css",
+				"/C/Users/Megamidia/Desktop/chosen/index.html",
+				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print--pdf--node--oferta.tpl.php",
+				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print--node--oferta.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--recipe.tpl.php",
+				"/C/Winginx/home/assai/sites/all/themes/assai/templates/ofertas/views-view-unformatted--ofertas--block-1.tpl.php",
+				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print.node--oferta.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--page.tpl.php",
+				"/C/Users/Megamidia/Desktop/teste.html",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--event.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--article.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node.tpl.php",
+				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node.tpl.php",
+				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node--empresa.tpl.php",
+				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node--article.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/html.tpl.php",
+				"/C/Winginx/home/setransp/sites/default/themes/setransp/scripts/main.js",
+				"/C/Users/Megamidia/Desktop/slick-master/index.html",
+				"/C/Winginx/home/grupocarvalho/modules/poll/poll-results--block.tpl.php",
+				"/C/Winginx/home/grupocarvalho/modules/poll/poll-bar.tpl.php",
+				"/C/Winginx/home/grupocarvalho/modules/poll/poll-bar--block.tpl.php",
+				"/C/Winginx/home/grupocarvalho/modules/poll/poll-results.tpl.php",
+				"/C/Winginx/home/grupocarvalho/modules/poll/poll-vote.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/poll-results--block.tpl.php",
+				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/main.less",
+				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/page.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.css",
+				"/C/Users/Megamidia/Desktop/Nova pasta (2)/acknowledgements.txt",
+				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/base/typography.less",
+				"/C/Winginx/home/grupocarvalho/sites/default/modules/gcarvalho/gcarvalho.info",
+				"/C/Winginx/home/grupocarvalho/sites/default/modules/gcarvalho/gcarvalho.module",
+				"/C/Winginx/home/grupocarvalho/sites/all/libraries/getlocations/markers/various/various.ini",
+				"/C/Winginx/home/grupocarvalho/sites/all/libraries/getlocations/markers/misc/misc.ini",
+				"/C/Users/Megamidia/Desktop/less.js-windows/README.md",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-settings",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/Default (Linux).sublime-keymap",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/Less2Css/README.md",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
+				"/C/Winginx/home/aprova/sites/all/themes/responsive_bartik/templates/comment.tpl.php",
+				"/C/Winginx/home/aprova/sites/all/modules/nodeaccess_userreference/README.txt",
+				"/C/Winginx/home/aprova/sites/default/settings.php",
+				"/C/Winginx/home/grupocarvalho/sites/default/settings.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/plupload/README.txt",
+				"/C/Winginx/home/summit/sites/default/settings.php",
+				"/C/Winginx/home/megawebnews/sites/default/modules/megawebnews/theme/ipc.tpl.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/js/google_store_locator_loc_aware.js",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/google_store_locator.module",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/js/google_store_locator.js",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/google_store_locator.views_default.inc",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/README.txt",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/theme/google_store_locator.css",
+				"/C/Winginx/home/paranatrade/sites/all/themes/prtradenews/page.tpl.php",
+				"/C/Users/Megamidia/Desktop/prtradenews/page.tpl.php",
+				"/C/Winginx/home/revistas/teresinashopping/index.php",
+				"/C/Winginx/home/assai/tabloide/08-09-14/pageflipdata/pageflipdata.xml",
+				"/C/Winginx/home/assai/tabloide/08-09-14/pageflipdata.xml",
+				"/C/Winginx/home/revistas/teresinashopping/js/main.js",
+				"/C/Winginx/home/assai/emag/01/pageflipdata/pageflipdata.xml",
+				"/C/Users/Megamidia/Desktop/FileZilla.xml",
+				"/C/Winginx/home/dev/sites/default/settings.php",
+				"/C/Winginx/home/mailrelay/mailrelay_statistics/mailrelay_statistics_location.inc",
+				"/C/Winginx/home/paranatrade/sftp-config.json",
+				"/C/Winginx/home/setransp/sftp-config.json",
+				"/C/Winginx/home/assai/sftp-config.json",
+				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/main.css",
+				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/components/alerts.less",
+				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/base/layout.less",
+				"/C/Winginx/home/paranatrade/sites/all/themes/paranatrade/css/global.css",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\modules",
+					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\modules\\getlocations"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"{\n",
+					"function",
+					"people35",
+					"2013",
+					"mega",
+					"201",
+					"vcard",
+					"2013",
+					"loja",
+					"<h2>",
+					"</h2>",
+					"block-views-empresas-block-1",
+					"location",
+					"search",
+					"filter",
+					"PDF",
+					"PDFlink",
+					"print",
+					" ."
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"<h3>",
+					"</h3>"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
 			"folders":
 			[
 				{
@@ -650,75 +711,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.less",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 26554,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										5723,
-										5723
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/LESS/LESS.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 3420.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/scripts/main.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3476,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2852,
-										2852
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 900.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
 					]
 				}
 			],
