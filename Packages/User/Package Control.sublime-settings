@@ -1,15 +1,24 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AngularJS",
 		"BracketHighlighter",
+		"Comment-Snippets",
+		"Comments Aware Enter",
+		"CSSLint",
 		"DocBlockr",
 		"Drupal",
 		"Drupal Completions",
 		"Drupal Snippets",
 		"Goto Drupal API",
+		"HTML5",
+		"JSON Reindent",
 		"LESS",
 		"lessc",
+		"Package Control",
 		"SFTP"
 	]
 }

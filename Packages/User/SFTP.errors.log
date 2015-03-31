@@ -1,0 +1,100 @@
+2015-01-05 14:02:36
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 189, in handle_ftp_error
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 803, in do_put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 552, in storbinary
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 454, in transfercmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 433, in ntransfercmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 358, in makeport
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 322, in sendport
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 312, in voidcmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 281, in voidresp
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 276, in getresp
+SFTP.sftp.ftplib2.error_perm: 500 Illegal PORT command
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 15, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 113, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 332, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 480, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 34, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 839, in put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 295, in handle_ftp_error
+SFTP.sftp.errors.ConnectionError: Active mode error, please set ftp_passive_mode to true in sftp-config.json
+2015-01-05 14:41:42
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 189, in handle_ftp_error
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 803, in do_put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 552, in storbinary
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 454, in transfercmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 433, in ntransfercmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 358, in makeport
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 322, in sendport
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 312, in voidcmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 281, in voidresp
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 276, in getresp
+SFTP.sftp.ftplib2.error_perm: 500 Illegal PORT command
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 15, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 113, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 332, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 480, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 34, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 839, in put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 295, in handle_ftp_error
+SFTP.sftp.errors.ConnectionError: Active mode error, please set ftp_passive_mode to true in sftp-config.json
+2015-01-05 15:37:27
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 189, in handle_ftp_error
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 803, in do_put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 552, in storbinary
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 454, in transfercmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 433, in ntransfercmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 358, in makeport
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 322, in sendport
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 312, in voidcmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 281, in voidresp
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 276, in getresp
+SFTP.sftp.ftplib2.error_perm: 500 Illegal PORT command
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 15, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 113, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 332, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 480, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 34, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 839, in put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 295, in handle_ftp_error
+SFTP.sftp.errors.ConnectionError: Active mode error, please set ftp_passive_mode to true in sftp-config.json
+2015-01-09 13:40:32
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 189, in handle_ftp_error
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 803, in do_put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 552, in storbinary
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 454, in transfercmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 433, in ntransfercmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 358, in makeport
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 322, in sendport
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 312, in voidcmd
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 281, in voidresp
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py", line 276, in getresp
+SFTP.sftp.ftplib2.error_perm: 500 Illegal PORT command
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 15, in run_with_except_hook
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/threads.py", line 113, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 332, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 480, in do_operation
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py", line 34, in handler
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 839, in put
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py", line 295, in handle_ftp_error
+SFTP.sftp.errors.ConnectionError: Active mode error, please set ftp_passive_mode to true in sftp-config.json
