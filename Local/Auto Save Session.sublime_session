@@ -1,10 +1,13 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Megamidia/Desktop/themeforest-10240461-blogit-clean-blogmagazine-wordpress-theme/blogit-wp",
+		"/C/Users/Megamidia/Desktop/theme blogdia/yumblog",
+		"/C/Winginx",
 		"/C/Winginx/home"
 	],
-	"last_version": 3065,
-	"last_window_id": 3,
+	"last_version": 3083,
+	"last_window_id": 9,
 	"log_indexing": false,
 	"settings":
 	{
@@ -16,68 +19,248 @@
 				"selected_items":
 				[
 					[
-						"mar",
-						"margin-left"
-					],
-					[
-						"ba",
-						"background"
+						"font",
+						"font-size"
 					],
 					[
 						"pad",
 						"padding"
 					],
 					[
-						"font",
-						"font-size"
-					],
-					[
-						"marg",
-						"margin-bottom"
-					],
-					[
-						"a",
-						"a"
-					],
-					[
-						"border",
-						"border-bottom"
-					],
-					[
-						"padd",
-						"padding-bottom"
-					],
-					[
-						"pa",
-						"padding"
-					],
-					[
-						"background",
-						"background-clip"
-					],
-					[
-						"tex",
-						"text-decoration"
-					],
-					[
-						"i",
-						"italic"
-					],
-					[
-						"background-",
-						"background-size"
-					],
-					[
-						"s",
-						"script"
+						"mar",
+						"margin-top"
 					],
 					[
 						"text",
 						"text-decoration"
 					],
 					[
+						"background",
+						"background"
+					],
+					[
 						"te",
 						"text-align"
+					],
+					[
+						"backgrou",
+						"background"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"mi",
+						"min-height"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"background-",
+						"background-image"
+					],
+					[
+						"ba",
+						"background-size"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"tab",
+						"table"
+					],
+					[
+						"ta",
+						"table-cell"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"$is_",
+						"$is_front"
+					],
+					[
+						"li",
+						"line-height"
+					],
+					[
+						"$etado",
+						"$estado_tid"
+					],
+					[
+						"inl",
+						"inline"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"b",
+						"box-sizing"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"print",
+						"print"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"view",
+						"view-grouping"
+					],
+					[
+						"$node",
+						"$node_nid"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"inline",
+						"inline"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"pa",
+						"padding-bottom"
+					],
+					[
+						"paddin",
+						"padding-right"
+					],
+					[
+						"heigh",
+						"height2"
+					],
+					[
+						"app",
+						"appendTo"
+					],
+					[
+						"$fra",
+						"$franqueado_user"
+					],
+					[
+						"em",
+						"empty"
+					],
+					[
+						"$pare",
+						"$parentusers"
+					],
+					[
+						"dp",
+						"dpm	dpm"
+					],
+					[
+						"box-",
+						"box-shadow"
+					],
+					[
+						"fg",
+						"form-emailmanager"
+					],
+					[
+						"node",
+						"node-full"
+					],
+					[
+						"menu",
+						"main-menu"
+					],
+					[
+						"22px",
+						"22px"
+					],
+					[
+						"map",
+						"mapgid"
+					],
+					[
+						"title",
+						"title	Attr"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"style",
+						"style	Attr"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"al",
+						"alt	Attr"
+					],
+					[
+						"im",
+						"important"
+					],
+					[
+						"border-r",
+						"border-right"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"php",
+						"php"
+					],
+					[
+						"block-bl",
+						"block-block-4"
+					],
+					[
+						"a",
+						"a"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"s",
+						"script"
 					],
 					[
 						"m",
@@ -92,24 +275,12 @@
 						"border-right-style"
 					],
 					[
-						"inline",
-						"inline-block"
-					],
-					[
-						"li",
-						"line-height"
-					],
-					[
 						"co",
 						"color"
 					],
 					[
 						"nav",
 						"nav	Tag"
-					],
-					[
-						"ma",
-						"margin-bottom"
 					],
 					[
 						"wi",
@@ -120,21 +291,34 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 311.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
 						"Package Control: ",
 						"Package Control: Install Package"
+					],
+					[
+						"i",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"in",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"json",
+						"JSON Reindent: reindent file or selection"
 					]
 				],
-				"width": 448.0
+				"width": 472.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 126.0,
 				"history":
 				[
+					"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')"
 				]
 			},
 			"distraction_free":
@@ -148,105 +332,134 @@
 			},
 			"file_history":
 			[
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/jquery.mCustomScrollbar.css",
-				"/C/Winginx/home/assai/sites/all/themes/assai/js/custom.js",
-				"/C/Winginx/home/assai/sites/all/themes/assai/css/style.css",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/template.php",
-				"/C/Users/Megamidia/Desktop/Nova pasta (2)/pageflipdata.xml",
-				"/C/Users/Megamidia/Desktop/Nova pasta (2)/Nova pasta/pageflipdata.xml",
-				"/C/Users/Megamidia/Desktop/pageflipdata.xml",
-				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/pageflipdata.xml",
-				"/C/Users/Megamidia/Desktop/index.html",
-				"/C/Users/Megamidia/Desktop/05/pageflipdata/pageflipdata.xml",
-				"/C/Users/Megamidia/Desktop/05/textLayout_1.0.0.595.swz",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/getlocations.module",
-				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/pageflipdata 2.xml",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/carvalho.info",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--event.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view--tv-carvalho--block.tpl - Cópia.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view-unformatted--tv-carvalho--block.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view--tv-carvalho--block.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--store.tpl.php",
-				"/C/Users/Megamidia/Desktop/malihu-custom-scrollbar-plugin-3.0.4/examples/style.css",
-				"/C/Users/Megamidia/Desktop/malihu-custom-scrollbar-plugin-3.0.4/examples/simple_example.html",
-				"/C/Users/Megamidia/Desktop/web-starter-kit-master/app/index.html",
-				"/C/Users/Megamidia/Desktop/chosen/chosen.css",
-				"/C/Users/Megamidia/Desktop/chosen/index.html",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print--pdf--node--oferta.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print--node--oferta.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.less",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--recipe.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/scripts/main.js",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/ofertas/views-view-unformatted--ofertas--block-1.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print.node--oferta.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--page.tpl.php",
-				"/C/Users/Megamidia/Desktop/teste.html",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--event.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/page.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--article.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node--empresa.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node--article.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/html.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/scripts/main.js",
-				"/C/Users/Megamidia/Desktop/slick-master/index.html",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-results--block.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-bar.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-bar--block.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-results.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-vote.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/poll-results--block.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/main.less",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/page.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.css",
-				"/C/Users/Megamidia/Desktop/Nova pasta (2)/acknowledgements.txt",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/base/typography.less",
-				"/C/Winginx/home/grupocarvalho/sites/default/modules/gcarvalho/gcarvalho.info",
-				"/C/Winginx/home/grupocarvalho/sites/default/modules/gcarvalho/gcarvalho.module",
-				"/C/Winginx/home/grupocarvalho/sites/all/libraries/getlocations/markers/various/various.ini",
-				"/C/Winginx/home/grupocarvalho/sites/all/libraries/getlocations/markers/misc/misc.ini",
-				"/C/Users/Megamidia/Desktop/less.js-windows/README.md",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/Default (Linux).sublime-keymap",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/Less2Css/README.md",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
-				"/C/Winginx/home/aprova/sites/all/themes/responsive_bartik/templates/comment.tpl.php",
-				"/C/Winginx/home/aprova/sites/all/modules/nodeaccess_userreference/README.txt",
-				"/C/Winginx/home/aprova/sites/default/settings.php",
-				"/C/Winginx/home/grupocarvalho/sites/default/settings.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/plupload/README.txt",
-				"/C/Winginx/home/summit/sites/default/settings.php",
-				"/C/Winginx/home/megawebnews/sites/default/modules/megawebnews/theme/ipc.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/js/google_store_locator_loc_aware.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/google_store_locator.module",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/js/google_store_locator.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/google_store_locator.views_default.inc",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/README.txt",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/theme/google_store_locator.css",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (6)/condor_emkt3_2015.html",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/modules/header.less",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/main.css",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/modules/header.less",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/modules/content.less",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/templates/page.tpl.php",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/modules/footer.less",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/setaatacadista.info",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/base/typography.less",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/base/layout.less",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/modules/footer.less",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/scripts/main.js",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/template.php",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/templates/page.tpl.php",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (5)/email_mkt_pre_223v4_editora.html",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/modules/content.less",
+				"/C/Winginx/home/seta/sites/default/settings.php",
+				"/C/Winginx/home/dev/dia/index.php",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/scripts/main.js",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (4)/index.html",
+				"/C/Users/Megamidia/Desktop/Sites/MegaMidia/megamidia.com.br/_header.php",
+				"/C/Users/Megamidia/Desktop/Sites/MegaMidia/megamidia.com.br/solucoes-radio.php",
+				"/C/Users/Megamidia/Desktop/Sites/MegaMidia/megamidia.com.br/crossdomain.xml",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (3)/dia_email_pascoav2.html",
+				"/C/Users/Megamidia/Desktop/Sites/emailmanager.php",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/template.php",
+				"/C/Winginx/home/mercantilpdv/sites/all/themes/mercantilpdv/templates/page.tpl.php",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (2)/assai_tabloide_emakt_marco_8.html",
+				"/C/Winginx/home/crowdfunding/sites/default/settings.php",
+				"/C/Winginx/home/crowdfunding/sites/all/modules/crowdfunding/modules/crowdfunding_admin/lib/Drupal/crowdfunding_admin/PageControllers/AdminOverview.php",
+				"/C/Winginx/home/crowdfunding/sites/all/modules/crowdfunding/modules/crowdfunding_admin/crowdfunding_admin.views_default.inc",
+				"/C/Winginx/home/crowdfunding/sites/all/modules/crowdfunding/modules/crowdfunding_admin/crowdfunding_admin.features.inc",
+				"/C/Winginx/home/crowdfunding/sites/all/modules/crowdfunding/modules/crowdfunding_admin/crowdfunding_admin.module",
+				"/C/Winginx/home/crowdfunding/sites/all/modules/crowdfunding/modules/crowdfunding_admin/lib/Drupal/crowdfunding_admin/PageControllers/AdminRunningProjects.php",
+				"/C/Winginx/home/megamidia/sites/default/settings.php",
+				"/C/Winginx/home/dev/crowdfunding/sites/default/settings.php",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta/assai_tabloide_eletronico_emakt_marco_2.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (25)/assai_tabloide_eletronico_emakt_marco.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (24)/revista_clubecuritibano_emkt_222.html",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/base/typography.less",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (21)/dia_app_scroll_1.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (22)/assai_batatapalitonovareceita_mato-grosso-1.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (23)/assai_participe_da_revista_emkt_alt2.html",
+				"/C/Winginx/home/blogdodia/sftp-config.json",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (20)/assai_batatapalitonovareceita_mato-grosso.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (18)/dia_app_scroll.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (19)/dia_emkt_44.html",
 				"/C/Winginx/home/paranatrade/sites/all/themes/prtradenews/page.tpl.php",
-				"/C/Users/Megamidia/Desktop/prtradenews/page.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/template.php",
-				"/C/Winginx/home/revistas/teresinashopping/index.php",
-				"/C/Winginx/home/assai/tabloide/08-09-14/pageflipdata/pageflipdata.xml",
-				"/C/Winginx/home/assai/tabloide/08-09-14/pageflipdata.xml",
-				"/C/Winginx/home/revistas/teresinashopping/js/main.js",
-				"/C/Winginx/home/assai/emag/01/pageflipdata/pageflipdata.xml",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/template.php",
+				"/C/Winginx/home/grupocarvalho/sites/default/settings.php",
+				"/C/Winginx/home/blogdodia/wp-content/themes/yumblog/style.css",
+				"/C/Winginx/home/lacipcplatform/sites/all/themes/lacipc/templates/node--video.tpl.php",
+				"/C/Users/MEGAMI~1/AppData/Local/Temp/Rar$DRa0.191/publish_away/README.txt",
+				"/C/Winginx/home/assai/sites/all/themes/assai/css/style.css",
+				"/C/Winginx/home/lacipcplatform/sites/all/themes/lacipc/templates/node--noticias.tpl.php",
+				"/C/Winginx/home/lacipcplatform/sites/all/themes/lacipc/style.css",
+				"/C/Winginx/home/lacipcplatform/sites/all/themes/lacipc/templates/node--fornecedor.tpl.php",
+				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/tela.css",
+				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/facebook_like.js",
+				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/facebook_share.js",
+				"/C/Winginx/home/blogdia/sites/all/modules/service_links/js/facebook_like.js",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/CSSLint/Default (Windows).sublime-keymap",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/base/layout.less",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/CSSLint/CSSLint.sublime-settings",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/components/tables.less",
+				"/C/Winginx/home/mercantil/sites/all/themes/mercantil/styles/components/tables.less",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (17)/assai_diadoconsumidor_emailmkt_1_3.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (16)/assai_diadoconsumidor_emailmkt_1_2.html",
+				"/C/Users/Megamidia/Desktop/style.css",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (15)/assa_diadoconsumidor_emailmkt_1_1.html",
+				"/C/Winginx/home/lacipcplatform/sites/all/themes/lacipc/js/custom.js",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (14)/emkt_prtr_comercial_thais.html",
+				"/C/Users/Megamidia/Desktop/apolice/views/plugins/views_plugin_cache.inc",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (12)/emkt_prtr_comercial_l.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (13)/assai_receitas_marco_2015_alt.html",
+				"/C/Users/Megamidia/Desktop/FitText.js-master/example.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (11)/assai_receitas_marco_2015.html",
+				"/C/Winginx/home/megamidia/sites/all/modules/views/plugins/views_plugin_cache.inc",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/scripts/jquery.fittext.js",
+				"/C/Winginx/home/blogdia/sites/default/settings.php",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (10)/scroll_comercial_thais.html",
+				"/C/Users/Megamidia/Desktop/tela.css",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (9)/email_mkt_muffato_2322.html",
+				"/C/Winginx/home/megamidia/sftp-config.json",
+				"/C/Winginx/home/blogdia/sftp-config.json",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/templates/node--solucao.tpl.php",
+				"/C/Winginx/conf/nginx.conf",
 				"/C/Users/Megamidia/Desktop/FileZilla.xml",
+				"/C/Winginx/home/mercantilpdv/sites/all/themes/mercantilpdv/template.php",
+				"/C/Winginx/home/megamidia/modules/taxonomy/taxonomy-term.tpl.php",
+				"/C/Winginx/home/mercantil/sites/all/themes/mercantil/templates/node--dica-fornecedor.tpl.php",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/templates/taxonomy-term.tpl.php",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (8)/assai_emakt_marco_tabloide.html",
+				"/C/Winginx/home/mercantil/sites/all/themes/mercantil/styles/base/typography.less",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.less",
+				"/C/Winginx/home/blogdia/sites/all/themes/blogdia/template.php",
+				"/C/Winginx/home/assai/sites/all/themes/assai/js/custom.js",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/fonts/font.css",
+				"/C/Winginx/home/assai/sites/all/themes/assai/css/style - Cópia.css",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/fonts/index.html",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/base/lib.less",
+				"/C/Winginx/home/blogdia/sites/all/themes/blogdia/scripts/main.js",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/templates/html.tpl.php",
+				"/C/Winginx/home/mercantil/sites/all/themes/mercantil/templates/page.tpl.php",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/main.less",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/megamidia.info",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (7)/assai_nl_mar_2015_01.html",
+				"/C/Winginx/home/iascorretora/sites/default/settings.php",
+				"/C/Winginx/home/iascorretora/sites/settings.php",
+				"/C/Winginx/home/iascorretora/sites/default/default.settings.php",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (6)/assai_diadoconsumidor_emailmkt_2.html",
+				"/C/Winginx/home/iascorretora/sftp-config.json",
+				"/C/Winginx/home/megawebnews/sftp-config.json",
+				"/C/Winginx/home/megamidia/sites/all/themes/drupal-theme-bootstrap-master/drupal-theme-bootstrap.info",
 				"/C/Winginx/home/dev/sites/default/settings.php",
-				"/C/Winginx/home/mailrelay/mailrelay_statistics/mailrelay_statistics_location.inc",
-				"/C/Winginx/home/paranatrade/sftp-config.json",
-				"/C/Winginx/home/setransp/sftp-config.json",
-				"/C/Winginx/home/assai/sftp-config.json",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/main.css",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/components/alerts.less",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/base/layout.less",
-				"/C/Winginx/home/paranatrade/sites/all/themes/paranatrade/css/global.css",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings"
+				"/C/Winginx/home/mercantilpdv/sites/default/settings.php",
+				"/C/Winginx/home/lacipc/sites/default/settings.php",
+				"/C/Winginx/home/lacipc/sites/default/default.settings.php",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (6)/assai_diadoconsumidor_emailmkt_1.html",
+				"/C/Users/Megamidia/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/UWDAF0I4/widget.json",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.css",
+				"/C/Users/Megamidia/Desktop/teste.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (5)/assai_diadoconsumidor_emailmkt_1.html",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/getlocations.markercluster.inc",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/js/infobubble_options.js",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/js/infobubble_options.txt",
+				"/C/Winginx/home/assai/sites/default/files/radio/radioassai.html",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/getlocations.module"
 			],
 			"find":
 			{
@@ -257,6 +470,50 @@
 				"height": 90.0,
 				"where_history":
 				[
+					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\themes\\carvalho\\templates",
+					"C:\\Winginx\\home\\lacipcplatform\\sites\\all\\themes\\lacipc\\js",
+					"C:\\Winginx\\home\\assai\\sites\\all\\themes\\assai\\css",
+					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\modules\\getlocations",
+					"C:\\Winginx\\home\\blogcarvalho\\wp-content\\themes\\yumblog",
+					"C:\\Winginx\\home\\blogcarvalho",
+					"C:\\Users\\Megamidia\\Desktop\\themeforest-10240461-blogit-clean-blogmagazine-wordpress-theme\\blogit-wp",
+					"C:\\Users\\Megamidia\\Desktop\\theme blogdia\\yumblog\\wonderplugin-slider",
+					"C:\\Winginx\\home\\blogdia\\sites\\all\\themes\\diaadia",
+					"C:\\Users\\Megamidia\\Desktop\\theme blogdia\\yumblog",
+					"C:\\Winginx\\home\\blogdia\\sites\\all\\themes\\diaadia\\styles",
+					"C:\\Winginx\\home\\lacipcplatform\\sites\\all\\themes\\lacipc",
+					"C:\\Winginx\\home\\blogdia\\sites\\all\\modules\\service_links",
+					"C:\\Winginx",
+					"C:\\Winginx\\home\\blogdia\\sites\\all\\themes\\blogdia",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\lightbox2",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\colorbox_node",
+					"C:\\Winginx\\home\\lacipc\\w_backup\\sites\\all\\modules\\subuser",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\colorbox",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\colorbox_node",
+					"C:\\Winginx\\home\\lacipc\\sites\\all\\themes\\lacipc",
+					"C:\\Winginx\\home\\lacipc\\sites\\all\\themes",
+					"C:\\Winginx\\home\\lacipc\\sites\\all",
+					"C:\\Winginx\\home\\lacipc\\sites\\all\\themes\\lacipc",
+					"C:\\Winginx\\home\\lacipc\\sites\\all\\themes",
+					"C:\\Winginx\\home\\lacipc\\sites\\all",
+					"C:\\Winginx\\home\\assai\\sites\\all\\themes",
+					"C:\\Winginx\\home\\assai\\sites",
+					"C:\\Winginx\\home\\lacipc\\sites",
+					"C:\\Winginx\\home\\lacipc\\sites\\all",
+					"C:\\Winginx\\home\\lacipc\\backup\\sites\\all\\modules\\subuser",
+					"C:\\Winginx\\home\\mercantil\\sites\\all\\modules\\shs",
+					"C:\\Winginx\\home\\setransp\\sites\\default\\themes\\setransp\\styles\\setransp\\src",
+					"C:\\Winginx\\home\\pydio-core-5.2.5",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\webform",
+					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\modules\\service_links",
+					"C:\\Winginx\\home\\tartine\\modules",
+					"C:\\Winginx\\home\\tartine\\misc",
+					"C:\\Winginx\\home\\tartine\\includes",
+					"C:\\Winginx\\home\\assai\\includes",
+					"C:\\Winginx\\home\\assai\\misc",
+					"C:\\Winginx\\home\\assai",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\getlocations",
+					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\modules",
 					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\modules\\getlocations"
 				]
 			},
@@ -265,22 +522,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"2013",
-					"mega",
-					"201",
-					"vcard",
-					"2013",
-					"loja",
-					"<h2>",
-					"</h2>",
-					"block-views-empresas-block-1",
-					"location",
+					"<img name=\"",
+					"$base_url",
+					"#f0172e",
+					"#d61429",
+					"#e2162c",
+					"1210",
+					"<img name=\"",
+					"entry-slider",
+					"<img name=\"",
+					"http://www.paranatrade.com.br",
+					"<img name=\"",
+					"<img src=\"/sites/default",
+					"assai final",
+					"<img name=\"",
+					"Helvetica",
+					"<img name=\"",
+					"http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclustererplus/images/m2.png",
+					"src=\"/sites/default/files/",
+					"<img name=\"",
+					"src=\"email_mkt_market_",
+					"<img name=\"",
+					"#070a5f",
+					"#30338f",
+					"#d61429",
+					"#f0172e",
+					"#e2162c",
+					"<img name=\"",
+					"\nCopyright 2015 Blog do Dia. Todos os Direitos Reservados.",
+					"\nCopyright",
+					"\n			opyright 2015 Blog do Dia. Todos os Direitos Reservados.",
+					"2014",
+					"<img name=\"",
+					"<table style=\"display: inline-table;\" align=\"\"left\" border=\"0\"",
+					"<img name=\"",
+					"webnus_blog_readmore_text",
+					"webnus_blog_readmore_text()",
+					"readmore",
+					"read more",
+					"Read More",
+					"watermark",
+					"WordPress Slider Free Version",
+					"'Neucha', cursive",
+					"<img name=\"",
+					"Apologies, but no results were found. Perhaps searching will help find a related post",
+					"Next",
+					"Continue reading",
+					"HTML5 Video Player",
+					"<img name=\"",
+					"tertiary-actions",
+					"reply",
+					"font-family: Enriqueta;",
+					"#b06425",
+					"font-family: \"Berkshire Swash\", cursive;",
+					"#7e9a41",
+					"#d47c34",
+					"#82bfb9",
+					"#758f3d",
+					"#9dbb5e",
+					"#92b34c",
+					"cf meta",
+					"Berkshire Swash",
+					"COMMENTS",
+					"Search",
+					"says",
+					"replay",
+					"<img name=\"",
+					"font-family: 'fishfingersregular';",
+					"<img name=\"",
+					"eventos",
+					"font-family",
+					"<img name=\"",
+					"search-results",
+					"<img name=\"",
+					"evt",
 					"search",
-					"filter",
-					"PDF",
-					"PDFlink",
-					"print",
-					" ."
+					"$video_miniatura",
+					"<img name=\"",
+					"finesse",
+					"upload",
+					"40",
+					"<img name=\"",
+					"style=\"display: inline-table;\" align=\"\"left\" ",
+					"<img name=\"",
+					"%;",
+					"<img name=\"",
+					"<table style=\"display: inline-table;\" align=\"\"left\" border=\"0\"",
+					"joneldesouza",
+					"//www.facebook.com",
+					"<img name=\"",
+					"font/",
+					"icon-close",
+					"<table style=\"display: inline-table;\" align=\"\"left\" border=\"",
+					"<img name=\"",
+					"<table style=\"display: inline-table;\" align=\"\"left\" border=\"0\"",
+					"style=\"display: inline-table;\" align=\"\"left\"",
+					"<img name=\"",
+					"172.15.10",
+					"<?php print $base_path; ?>sites/all/themes/mercantil/styles/images/",
+					"function doAllMarkers",
+					"<img name=\"r",
+					".page-radio-assai",
+					"sustenta",
+					"receitasdodia",
+					"<img name=\"",
+					"assai_novidades_3",
+					"assai_novidades_3_r5_c1",
+					"count_url_access",
+					"emailmanager_signups",
+					"\">",
+					"    <option value=\"",
+					"</option>",
+					"<img name=\"",
+					"<table style=\"display: inline-table;\" align=\"\"left\" border=\"0\"",
+					"<img name=\"",
+					"style=\"display: inline-table;\" align=\"\"left\" ",
+					"<iframe",
+					"<img name=\"",
+					"height",
+					"<img name=\"",
+					"style=\"display: inline-table;\" align=\"\"left\" ",
+					"<img name=\"",
+					"style=\"display: inline-table;\" align=\"\"left\"",
+					"<img name=\"",
+					"style=\"display: inline-table;\" align=\"\"left\"",
+					"108",
+					"03-edicao",
+					"subuser_relation_parent",
+					"Name for parent user"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -288,6 +657,105 @@
 				"regex": false,
 				"replace_history":
 				[
+					"<img style=\"display:block;\" name=\"",
+					"#008fce",
+					"#f3882a",
+					"<img style=\"display:block;\" name=\"",
+					"http://www.paranatrade.com.br/revistas",
+					"<img style=\"display:block;\" name=\"",
+					"<img src=\"/megamidia/sites/default",
+					"<img style=\"display:block;\" name=\"",
+					"src=\"/grupocarvalho/sites/default/files/",
+					"<img style=\"display:block;\" name=\"",
+					"src=\"http://emkt.megamidia.com.br/sites/default/files/email_mkt_market_",
+					"<img style=\"display:block;\" name=\"",
+					"#d61429",
+					"#e2162c",
+					"#070a5f",
+					"#30338f",
+					"<img style=\"display:block;\" name=\"",
+					"<table border=\"0\"",
+					"<img style=\"display:block;\" name=\"",
+					"#e2162c",
+					"font-family: \"Open Sans\";",
+					"#e2162c",
+					"#d61429",
+					"#f0172e",
+					"#e2162c",
+					"<img style=\"display:block;\" name=\"",
+					"<table border=\"0\"",
+					"<img style=\"display:block\" name=\"",
+					"/blogdia/sites/all/themes/diaadia/styles/base/font/",
+					"<table border=\"",
+					"<img style=\"display:block\" name=\"",
+					"<table border=\"0\"",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"/sites/all/themes/mercantilpdv/styles/images/",
+					"<img style=\"display:block\" name=\"r",
+					".page-radioassai",
+					"<img style=\"display:block;\" name=\"",
+					"1_assai_novidades_3",
+					"assai_novidades_3_r5_c1_novo",
+					"poll_link",
+					"count_url_access",
+					"|",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"<table border=\"0\"",
+					"<img style=\"display:block;\" name=\"",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"",
+					"02-edicao",
+					"<img style=\"display:block\" name=\"",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"<img styles=\"display:block\" name=\"",
+					"",
+					"<img style=\"display:block\" name=\"",
+					"<img src=\"<?php print $base_path; ?>sites/",
+					"<?php print $base_path; ?>",
+					"<img style=\"display:block\" name=\"",
+					"dia_email_10_2",
+					" dia_email_10_2",
+					" ",
+					"",
+					"<img style=\"display:block\" name=\"",
+					"group-<?php print $group_nr; ?>",
+					"<img style=\"display:block\" name=\"",
+					".show()",
+					"<img style=\"display:block\" name=\"",
+					"<img style=\"block\" name=\"",
+					"/sites/all/themes/mercantil/styles/base/font/",
+					"/styles/base/font/",
+					"/font/2",
+					"/font",
+					"font",
+					"sites/all/themes/mercantil/styles/images/sites",
+					"http://revistaclubecuritibano.megamidiagroup.com.br/218/",
+					"href=\"http://revistamuffato",
+					"href=\"http://revistaclubecuritibano",
+					"<img style=\"display:block\" name=\"",
+					"",
+					"<img style=\"display:block\" name=",
+					"width=\"650\"",
+					"<img style=\"display:block;\" name=",
+					"<img style=\"display:block;\"",
+					"às",
+					"http",
+					"</h2>",
+					"<h2>",
+					"style=\"height:75px; width:75px; margin-right:10px; float: left;\"",
+					"",
+					"</h3>",
+					"<h3>",
+					"</span><span class=\"arrow\"></span></h4>",
+					"http://www.paranatrade.com.br",
 					"<h3>",
 					"</h3>"
 				],
@@ -306,6 +774,10 @@
 				"height": 31.0
 			},
 			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 100.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -316,7 +788,7 @@
 			},
 			"replace":
 			{
-				"height": 42.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -347,7 +819,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 344.0,
+			"side_bar_width": 336.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -363,8 +835,236 @@
 				"selected_items":
 				[
 					[
-						"te",
+						"marg",
+						"margin"
+					],
+					[
+						"block",
+						"block-block-2"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"text",
 						"text-decoration"
+					],
+					[
+						"border",
+						"border-right"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"le",
+						"letter-spacing"
+					],
+					[
+						"background",
+						"background"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"backgrou",
+						"background"
+					],
+					[
+						"mi",
+						"min-height"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"background-",
+						"background-image"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"tab",
+						"table"
+					],
+					[
+						"ta",
+						"table-cell"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"$is_",
+						"$is_front"
+					],
+					[
+						"li",
+						"line-height"
+					],
+					[
+						"$etado",
+						"$estado_tid"
+					],
+					[
+						"inl",
+						"inline"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"b",
+						"box-sizing"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"print",
+						"print"
+					],
+					[
+						"view",
+						"view-grouping"
+					],
+					[
+						"$node",
+						"$node_nid"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"inline",
+						"inline"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"pa",
+						"padding-bottom"
+					],
+					[
+						"paddin",
+						"padding-right"
+					],
+					[
+						"heigh",
+						"height2"
+					],
+					[
+						"app",
+						"appendTo"
+					],
+					[
+						"$fra",
+						"$franqueado_user"
+					],
+					[
+						"em",
+						"empty"
+					],
+					[
+						"$pare",
+						"$parentusers"
+					],
+					[
+						"dp",
+						"dpm	dpm"
+					],
+					[
+						"box-",
+						"box-shadow"
+					],
+					[
+						"fg",
+						"form-emailmanager"
+					],
+					[
+						"node",
+						"node-full"
+					],
+					[
+						"menu",
+						"main-menu"
+					],
+					[
+						"22px",
+						"22px"
+					],
+					[
+						"map",
+						"mapgid"
+					],
+					[
+						"title",
+						"title	Attr"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"inli",
+						"inline-block"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"style",
+						"style	Attr"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"al",
+						"alt	Attr"
+					],
+					[
+						"im",
+						"important"
+					],
+					[
+						"border-r",
+						"border-right"
 					],
 					[
 						"max",
@@ -375,64 +1075,16 @@
 						"php"
 					],
 					[
-						"pad",
-						"padding"
-					],
-					[
-						"font",
-						"font-weight"
-					],
-					[
-						"mar",
-						"margin-right"
-					],
-					[
-						"tex",
-						"text-transform"
-					],
-					[
 						"block-bl",
 						"block-block-4"
-					],
-					[
-						"text",
-						"text-align"
-					],
-					[
-						"ba",
-						"background"
-					],
-					[
-						"marg",
-						"margin-bottom"
 					],
 					[
 						"a",
 						"a"
 					],
 					[
-						"border",
-						"border-bottom"
-					],
-					[
-						"padd",
-						"padding-bottom"
-					],
-					[
-						"pa",
-						"padding"
-					],
-					[
-						"background",
-						"background-clip"
-					],
-					[
 						"i",
 						"italic"
-					],
-					[
-						"background-",
-						"background-size"
 					],
 					[
 						"s",
@@ -451,24 +1103,12 @@
 						"border-right-style"
 					],
 					[
-						"inline",
-						"inline-block"
-					],
-					[
-						"li",
-						"line-height"
-					],
-					[
 						"co",
 						"color"
 					],
 					[
 						"nav",
 						"nav	Tag"
-					],
-					[
-						"ma",
-						"margin-bottom"
 					],
 					[
 						"wi",
@@ -479,58 +1119,82 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view-unformatted--lojas--block-4.tpl.php",
+					"file": "/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/modules/content.less",
 					"settings":
 					{
-						"buffer_size": 785,
+						"buffer_size": 6076,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/C/Winginx/home/assai/sites/default/settings.php",
+					"file": "/C/Winginx/home/seta/sites/all/themes/setaatacadista/templates/node--store.tpl.php",
 					"settings":
 					{
-						"buffer_size": 23725,
+						"buffer_size": 5996,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "Package Control Messages\n========================\n\nAngularJS:\n---------\n\n  AngularJS 1.0.0\n  --------------------\n  \n  This version of AngularJS is now a merge of the following two packages:\n  AngularJS - http://deansofer.com/projects/view/74/AngularJs_tmbundle\n  AngularJS Attributes Completion - http://subhaze.github.io/angularjs-attributes\n  \n  This new package provides similar functionality of the two but with added features and options.\n  \n  Some of the added features are:\n  - Quick Panel search of directives/controllers/filters/etc...\n  - GoTo definition for directives\n  - GoToDocs for core AngularJS directives\n  - Directive completions for your custom defined directives\n  \n  To find out more checkout the readme at https://github.com/angular-ui/AngularJS-sublime-package\n  \n  Report issues at https://github.com/angular-ui/AngularJS-sublime-package/issues\n",
+					"file": "/C/Winginx/home/seta/sites/all/themes/setaatacadista/scripts/main.js",
 					"settings":
 					{
-						"buffer_size": 871,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"scratch": true
+						"buffer_size": 1650,
+						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/template.php",
+					"file": "/C/Winginx/home/paranatrade/sites/all/themes/prtradenews/page.tpl.php",
 					"settings":
 					{
-						"buffer_size": 731,
-						"line_ending": "Unix"
+						"buffer_size": 27230,
+						"line_ending": "Windows"
 					}
 				}
 			],
 			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 311.0,
+				"height": 392.0,
+				"last_filter": "Package Control: ",
 				"selected_items":
 				[
 					[
 						"Package Control: ",
 						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"i",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"in",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"json",
+						"JSON Reindent: reindent file or selection"
 					]
 				],
 				"width": 504.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 126.0,
 				"history":
 				[
+					"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')"
 				]
 			},
 			"distraction_free":
@@ -545,145 +1209,162 @@
 			"expanded_folders":
 			[
 				"/C/Winginx/home",
-				"/C/Winginx/home/assai",
 				"/C/Winginx/home/assai/sites",
-				"/C/Winginx/home/assai/sites/default",
-				"/C/Winginx/home/grupocarvalho",
-				"/C/Winginx/home/grupocarvalho/sites",
-				"/C/Winginx/home/grupocarvalho/sites/all",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/scripts",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates"
+				"/C/Winginx/home/assai/sites/all",
+				"/C/Winginx/home/assai/sites/all/themes",
+				"/C/Winginx/home/assai/sites/all/themes/assai",
+				"/C/Winginx/home/lacipc/sites/default",
+				"/C/Winginx/home/lacipc/w_backup",
+				"/C/Winginx/home/lacipc/w_backup/sites",
+				"/C/Winginx/home/lacipc/w_backup/sites/default",
+				"/C/Winginx/home/lacipcplatform/sites",
+				"/C/Winginx/home/lacipcplatform/sites/default",
+				"/C/Winginx/home/paranatrade",
+				"/C/Winginx/home/paranatrade/sites",
+				"/C/Winginx/home/paranatrade/sites/all",
+				"/C/Winginx/home/paranatrade/sites/all/themes",
+				"/C/Winginx/home/paranatrade/sites/all/themes/prtradenews",
+				"/C/Winginx/home/seta",
+				"/C/Winginx/home/seta/sites",
+				"/C/Winginx/home/seta/sites/all",
+				"/C/Winginx/home/seta/sites/all/themes",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/scripts",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/base",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/modules",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/templates"
 			],
 			"file_history":
 			[
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-completions.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-completions.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-sublime-package.sublime-settings",
-				"/C/Users/Megamidia/Desktop/malihu-custom-scrollbar-plugin-master/examples/scrollTo_demo.html",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view--tv-carvalho--block.tpl.php",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (10)/rev_condor_emkt_06.html",
+				"/C/Winginx/home/lacipcplatform/sites/settings.php",
+				"/C/Winginx/home/lacipc/w_backup/sites/default/settings.php",
+				"/C/Winginx/home/lacipc/sites/default/settings.php",
+				"/C/Winginx/home/lacipcplatform/sites/default/settings.php",
+				"/C/Winginx/home/paranatrade/sites/default/settings.php",
+				"/C/Users/Megamidia/Desktop/Sites/Seta/Nova pasta/.htaccess",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Installed Packages/JSCS-Formatter.sublime-package/JSCSFormatter.sublime-settings",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/scripts/main.js",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/scripts/responsiveslides.min.js",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/scripts/main.js",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/modules/header.less",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/base/typography.less",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/main.css",
+				"/C/Winginx/home/seta/sites/all/modules/getlocations/modules/getlocations_fields/getlocations_fields.functions.inc",
+				"/C/Winginx/home/seta/sites/all/modules/getlocations/modules/getlocations_fields/getlocations_fields.module",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/modules/content.less",
+				"/C/Winginx/home/seta/sites/all/modules/getlocations/modules/getlocations_fields/getlocations_fields.install",
+				"/C/Winginx/home/megamidia/sftp-config.json",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/modules/content.less",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/modules/header.less",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/templates/page.tpl.php",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/templates/node--revista.tpl.php",
 				"/C/Winginx/home/assai/sites/all/themes/assai/css/style.css",
-				"/C/Winginx/home/assai/sites/all/themes/assai/template.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/campanhas/views-view-unformatted--campanhas-novo--block-2.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/campanhas/views-view-unformatted--campanhas-novo--block-1.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/js/custom.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/getlocations.markerinfo.inc",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/getlocations.markercluster.inc",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view-unformatted--lojas--block-4.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.less",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view-unformatted--lojas--block-1.tpl.php",
+				"/C/Winginx/home/mercantilpdv/sftp-config.json",
+				"/C/Winginx/home/mercantilpdv/sites/all/modules/print/README.txt",
+				"/C/Winginx/home/mercantilpdv/sites/all/themes/mercantilpdv/templates/print.tpl.php",
+				"/C/Winginx/home/seta/sites/all/modules/getlocations/modules/getlocations_fields/getlocations_fields.tokens.inc",
+				"/C/Winginx/home/seta/sites/all/modules/getlocations/modules/getlocations_fields/getlocations_fields.token-functions.txt",
+				"/C/Winginx/home/mercantil/sites/all/themes/mercantil/scripts/main.js",
 				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/scripts/main.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--store.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/fonts/style.css",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/fonts/demo.html",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/template.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view--lojas--block-4.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/js/markerclusterer.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/js/markerclusterer_packed.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/page.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--event.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view-unformatted--tv-carvalho--block.tpl.php",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/info/exclude",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/config",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/description",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/HEAD",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/COMMIT_EDITMSG",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/.git/index",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Installed Packages/lessc.sublime-package",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
-				"/C/Winginx/home/paranatrade/sites/all/modules/paranatrade/paranatrade.module",
-				"/C/Winginx/home/localhost/public_html/radiotartine/index.html",
-				"/C/Winginx/home/paranatrade/sites/all/modules/paranatrade/paranatrade.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/jquery.mCustomScrollbar.css",
-				"/C/Users/Megamidia/Desktop/Nova pasta (2)/pageflipdata.xml",
-				"/C/Users/Megamidia/Desktop/Nova pasta (2)/Nova pasta/pageflipdata.xml",
-				"/C/Users/Megamidia/Desktop/pageflipdata.xml",
-				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/pageflipdata.xml",
-				"/C/Users/Megamidia/Desktop/index.html",
-				"/C/Users/Megamidia/Desktop/05/pageflipdata/pageflipdata.xml",
-				"/C/Users/Megamidia/Desktop/05/textLayout_1.0.0.595.swz",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/getlocations.module",
-				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/pageflipdata 2.xml",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/carvalho.info",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view--tv-carvalho--block.tpl - Cópia.php",
-				"/C/Users/Megamidia/Desktop/malihu-custom-scrollbar-plugin-3.0.4/examples/style.css",
-				"/C/Users/Megamidia/Desktop/malihu-custom-scrollbar-plugin-3.0.4/examples/simple_example.html",
-				"/C/Users/Megamidia/Desktop/web-starter-kit-master/app/index.html",
-				"/C/Users/Megamidia/Desktop/chosen/chosen.css",
-				"/C/Users/Megamidia/Desktop/chosen/index.html",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print--pdf--node--oferta.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print--node--oferta.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--recipe.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/ofertas/views-view-unformatted--ofertas--block-1.tpl.php",
-				"/C/Winginx/home/assai/sites/all/themes/assai/templates/print.node--oferta.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--page.tpl.php",
-				"/C/Users/Megamidia/Desktop/teste.html",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--event.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node--article.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/node.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node--empresa.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/node--article.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/html.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/scripts/main.js",
-				"/C/Users/Megamidia/Desktop/slick-master/index.html",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-results--block.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-bar.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-bar--block.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-results.tpl.php",
-				"/C/Winginx/home/grupocarvalho/modules/poll/poll-vote.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/poll-results--block.tpl.php",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/main.less",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/templates/page.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/styles/main.css",
-				"/C/Users/Megamidia/Desktop/Nova pasta (2)/acknowledgements.txt",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/base/typography.less",
-				"/C/Winginx/home/grupocarvalho/sites/default/modules/gcarvalho/gcarvalho.info",
-				"/C/Winginx/home/grupocarvalho/sites/default/modules/gcarvalho/gcarvalho.module",
-				"/C/Winginx/home/grupocarvalho/sites/all/libraries/getlocations/markers/various/various.ini",
-				"/C/Winginx/home/grupocarvalho/sites/all/libraries/getlocations/markers/misc/misc.ini",
-				"/C/Users/Megamidia/Desktop/less.js-windows/README.md",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/Default (Linux).sublime-keymap",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/Less2Css/README.md",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/Less2Css/less2css.sublime-settings",
-				"/C/Winginx/home/aprova/sites/all/themes/responsive_bartik/templates/comment.tpl.php",
-				"/C/Winginx/home/aprova/sites/all/modules/nodeaccess_userreference/README.txt",
-				"/C/Winginx/home/aprova/sites/default/settings.php",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/template.php",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/template.php",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/js/infobubble_options.txt",
+				"/C/Winginx/home/seta/sites/all/modules/getlocations/js/infobubble_options.js",
+				"/C/Winginx/home/grupocarvalho/sites/all/modules/getlocations/js/infobubble_options.js",
+				"/C/Winginx/home/grupocarvalho/sftp-config.json",
 				"/C/Winginx/home/grupocarvalho/sites/default/settings.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/plupload/README.txt",
-				"/C/Winginx/home/summit/sites/default/settings.php",
-				"/C/Winginx/home/megawebnews/sites/default/modules/megawebnews/theme/ipc.tpl.php",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/js/google_store_locator_loc_aware.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/google_store_locator.module",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/js/google_store_locator.js",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/google_store_locator.views_default.inc",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/README.txt",
-				"/C/Winginx/home/grupocarvalho/sites/all/modules/google_store_locator/theme/google_store_locator.css",
+				"/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/template.php",
+				"/C/Winginx/home/seta/sites/all/modules/site_map/README.txt",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/templates/page.tpl.php",
+				"/C/Winginx/home/megamidia/sites/all/modules/gtranslate/gtranslate-files/jquery-translate.js",
+				"/C/Winginx/home/megamidia/sites/all/modules/gtranslate/gtranslate.module",
+				"/C/Winginx/home/dev/sites/all/modules/google_translator/google_translator.info",
+				"/C/Winginx/home/dev/sites/all/modules/google_translator/theme/google_translator.js",
+				"/C/Winginx/home/dev/sites/all/modules/google_translator/theme/google_translator.css",
+				"/C/Winginx/home/dev/sites/all/modules/google_translator/google_translator.module.html",
+				"/C/Winginx/home/paranatrade/sites/all/modules/gtranslate/gtranslate-files/jquery-translate.js",
+				"/C/Winginx/home/paranatrade/sites/all/modules/gtranslate/gtranslate.module",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/modules/footer.less",
+				"/C/Users/Megamidia/Desktop/Sites/MegaMidia/BACKUP megamidia.com.br/politica.php",
+				"/C/Winginx/home/seta/sites/all/libraries/getlocations/markers/seta/seta.ini",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (9)/assai_nl_mar_2015_02.html",
+				"/C/Winginx/home/seta/sites/all/libraries/getlocations/markers/big/big.ini",
+				"/C/Winginx/home/seta/sites/all/libraries/getlocations/markers/misc/misc.ini",
+				"/C/Winginx/home/seta/sites/all/libraries/getlocations/markers/colors/colors.ini",
+				"/C/Winginx/home/seta/sites/all/modules/getlocations/js/getlocations.js",
+				"/C/Winginx/home/seta/sites/all/modules/getlocations/README.txt",
+				"/C/Winginx/home/seta/sites/all/modules/getlocations/getlocations.module",
+				"/C/Winginx/home/seta/sites/all/modules/getlocations/modules/getlocations_fields/README.txt",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (8)/dia_emkt_revista_base_02.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (7)/email_mkt_pre_223v4_editora4.html",
+				"/C/Winginx/home/seta/sites/all/modules/google_store_locator/google_store_locator.module",
+				"/C/Winginx/home/seta/sites/all/modules/google_store_locator/js/google_store_locator.js",
+				"/C/Winginx/home/seta/sites/all/modules/geofield/js/geolocation.js",
+				"/C/Winginx/home/seta/sites/all/modules/geofield/README.txt",
+				"/C/Winginx/home/seta/sites/all/modules/geofield/modules/geofield_map/includes/geofield_map_plugin_style_map.inc",
+				"/C/Winginx/home/seta/sites/all/modules/geofield/modules/geofield_map/includes/geofield_map.views.inc",
+				"/C/Winginx/home/seta/sites/all/modules/geofield/modules/geofield_map/geofield_map.module",
+				"/C/Winginx/home/seta/sites/all/modules/geofield/modules/geofield_map/css/geofield_map.css",
+				"/C/Winginx/home/seta/sites/all/modules/geofield/modules/geofield_map/js/geofield_map.js",
+				"/C/Winginx/home/seta/sites/all/modules/google_store_locator/js/google_store_locator_loc_aware.js",
+				"/C/Winginx/home/seta/sites/all/modules/google_store_locator/google_store_locator.install",
+				"/C/Winginx/home/seta/sites/all/modules/google_store_locator/README.txt",
+				"/C/Winginx/home/seta/sites/all/modules/google_store_locator/google_store_locator.views_default.inc",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/modules/footer.less",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/setaatacadista.info",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/base/layout.less",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (6)/condor_emkt3_2015.html",
+				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/base/layout.less",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (5)/email_mkt_pre_223v4_editora.html",
+				"/C/Winginx/home/seta/sites/default/settings.php",
+				"/C/Winginx/home/dev/dia/index.php",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (4)/index.html",
+				"/C/Users/Megamidia/Desktop/Sites/MegaMidia/megamidia.com.br/_header.php",
+				"/C/Users/Megamidia/Desktop/Sites/MegaMidia/megamidia.com.br/solucoes-radio.php",
+				"/C/Users/Megamidia/Desktop/Sites/MegaMidia/megamidia.com.br/crossdomain.xml",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (3)/dia_email_pascoav2.html",
+				"/C/Users/Megamidia/Desktop/Sites/emailmanager.php",
+				"/C/Winginx/home/mercantilpdv/sites/all/themes/mercantilpdv/templates/page.tpl.php",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (2)/assai_tabloide_emakt_marco_8.html",
+				"/C/Winginx/home/crowdfunding/sites/default/settings.php",
+				"/C/Winginx/home/crowdfunding/sites/all/modules/crowdfunding/modules/crowdfunding_admin/lib/Drupal/crowdfunding_admin/PageControllers/AdminOverview.php",
+				"/C/Winginx/home/crowdfunding/sites/all/modules/crowdfunding/modules/crowdfunding_admin/crowdfunding_admin.views_default.inc",
+				"/C/Winginx/home/crowdfunding/sites/all/modules/crowdfunding/modules/crowdfunding_admin/crowdfunding_admin.features.inc",
+				"/C/Winginx/home/crowdfunding/sites/all/modules/crowdfunding/modules/crowdfunding_admin/crowdfunding_admin.module",
+				"/C/Winginx/home/crowdfunding/sites/all/modules/crowdfunding/modules/crowdfunding_admin/lib/Drupal/crowdfunding_admin/PageControllers/AdminRunningProjects.php",
+				"/C/Winginx/home/megamidia/sites/default/settings.php",
+				"/C/Winginx/home/dev/crowdfunding/sites/default/settings.php",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta/assai_tabloide_eletronico_emakt_marco_2.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (25)/assai_tabloide_eletronico_emakt_marco.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (24)/revista_clubecuritibano_emkt_222.html",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/base/typography.less",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (21)/dia_app_scroll_1.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (22)/assai_batatapalitonovareceita_mato-grosso-1.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (23)/assai_participe_da_revista_emkt_alt2.html",
+				"/C/Winginx/home/blogdodia/sftp-config.json",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (20)/assai_batatapalitonovareceita_mato-grosso.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (18)/dia_app_scroll.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (19)/dia_emkt_44.html",
 				"/C/Winginx/home/paranatrade/sites/all/themes/prtradenews/page.tpl.php",
-				"/C/Users/Megamidia/Desktop/prtradenews/page.tpl.php",
-				"/C/Winginx/home/revistas/teresinashopping/index.php",
-				"/C/Winginx/home/assai/tabloide/08-09-14/pageflipdata/pageflipdata.xml",
-				"/C/Winginx/home/assai/tabloide/08-09-14/pageflipdata.xml",
-				"/C/Winginx/home/revistas/teresinashopping/js/main.js",
-				"/C/Winginx/home/assai/emag/01/pageflipdata/pageflipdata.xml",
-				"/C/Users/Megamidia/Desktop/FileZilla.xml",
-				"/C/Winginx/home/dev/sites/default/settings.php",
-				"/C/Winginx/home/mailrelay/mailrelay_statistics/mailrelay_statistics_location.inc",
-				"/C/Winginx/home/paranatrade/sftp-config.json",
-				"/C/Winginx/home/setransp/sftp-config.json",
-				"/C/Winginx/home/assai/sftp-config.json",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/main.css",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/components/alerts.less",
-				"/C/Winginx/home/setransp/sites/default/themes/setransp/styles/setransp/src/base/layout.less",
-				"/C/Winginx/home/paranatrade/sites/all/themes/paranatrade/css/global.css",
-				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings"
+				"/C/Winginx/home/blogdodia/wp-content/themes/yumblog/style.css",
+				"/C/Winginx/home/lacipcplatform/sites/all/themes/lacipc/templates/node--video.tpl.php",
+				"/C/Users/MEGAMI~1/AppData/Local/Temp/Rar$DRa0.191/publish_away/README.txt",
+				"/C/Winginx/home/lacipcplatform/sites/all/themes/lacipc/templates/node--noticias.tpl.php",
+				"/C/Winginx/home/lacipcplatform/sites/all/themes/lacipc/style.css",
+				"/C/Winginx/home/lacipcplatform/sites/all/themes/lacipc/templates/node--fornecedor.tpl.php",
+				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/tela.css",
+				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/facebook_like.js",
+				"/C/Users/Megamidia/AppData/Local/Temp/fz3temp-1/facebook_share.js",
+				"/C/Winginx/home/blogdia/sites/all/modules/service_links/js/facebook_like.js",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/CSSLint/Default (Windows).sublime-keymap",
+				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Packages/CSSLint/CSSLint.sublime-settings",
+				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/components/tables.less",
+				"/C/Winginx/home/mercantil/sites/all/themes/mercantil/styles/components/tables.less",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (17)/assai_diadoconsumidor_emailmkt_1_3.html",
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (16)/assai_diadoconsumidor_emailmkt_1_2.html",
+				"/C/Users/Megamidia/Desktop/style.css"
 			],
 			"find":
 			{
@@ -694,6 +1375,51 @@
 				"height": 90.0,
 				"where_history":
 				[
+					"C:\\Winginx\\home\\seta\\sites\\all\\modules\\google_store_locator",
+					"C:\\Winginx\\home\\seta\\sites\\all\\modules\\geofield",
+					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\themes\\carvalho\\templates",
+					"C:\\Winginx\\home\\lacipcplatform\\sites\\all\\themes\\lacipc\\js",
+					"C:\\Winginx\\home\\assai\\sites\\all\\themes\\assai\\css",
+					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\modules\\getlocations",
+					"C:\\Winginx\\home\\blogcarvalho\\wp-content\\themes\\yumblog",
+					"C:\\Winginx\\home\\blogcarvalho",
+					"C:\\Users\\Megamidia\\Desktop\\themeforest-10240461-blogit-clean-blogmagazine-wordpress-theme\\blogit-wp",
+					"C:\\Users\\Megamidia\\Desktop\\theme blogdia\\yumblog\\wonderplugin-slider",
+					"C:\\Winginx\\home\\blogdia\\sites\\all\\themes\\diaadia",
+					"C:\\Users\\Megamidia\\Desktop\\theme blogdia\\yumblog",
+					"C:\\Winginx\\home\\blogdia\\sites\\all\\themes\\diaadia\\styles",
+					"C:\\Winginx\\home\\lacipcplatform\\sites\\all\\themes\\lacipc",
+					"C:\\Winginx\\home\\blogdia\\sites\\all\\modules\\service_links",
+					"C:\\Winginx",
+					"C:\\Winginx\\home\\blogdia\\sites\\all\\themes\\blogdia",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\lightbox2",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\colorbox_node",
+					"C:\\Winginx\\home\\lacipc\\w_backup\\sites\\all\\modules\\subuser",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\colorbox",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\colorbox_node",
+					"C:\\Winginx\\home\\lacipc\\sites\\all\\themes\\lacipc",
+					"C:\\Winginx\\home\\lacipc\\sites\\all\\themes",
+					"C:\\Winginx\\home\\lacipc\\sites\\all",
+					"C:\\Winginx\\home\\lacipc\\sites\\all\\themes\\lacipc",
+					"C:\\Winginx\\home\\lacipc\\sites\\all\\themes",
+					"C:\\Winginx\\home\\lacipc\\sites\\all",
+					"C:\\Winginx\\home\\assai\\sites\\all\\themes",
+					"C:\\Winginx\\home\\assai\\sites",
+					"C:\\Winginx\\home\\lacipc\\sites",
+					"C:\\Winginx\\home\\lacipc\\sites\\all",
+					"C:\\Winginx\\home\\lacipc\\backup\\sites\\all\\modules\\subuser",
+					"C:\\Winginx\\home\\mercantil\\sites\\all\\modules\\shs",
+					"C:\\Winginx\\home\\setransp\\sites\\default\\themes\\setransp\\styles\\setransp\\src",
+					"C:\\Winginx\\home\\pydio-core-5.2.5",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\webform",
+					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\modules\\service_links",
+					"C:\\Winginx\\home\\tartine\\modules",
+					"C:\\Winginx\\home\\tartine\\misc",
+					"C:\\Winginx\\home\\tartine\\includes",
+					"C:\\Winginx\\home\\assai\\includes",
+					"C:\\Winginx\\home\\assai\\misc",
+					"C:\\Winginx\\home\\assai",
+					"C:\\Winginx\\home\\assai\\sites\\all\\modules\\getlocations",
 					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\modules",
 					"C:\\Winginx\\home\\grupocarvalho\\sites\\all\\modules\\getlocations"
 				]
@@ -703,25 +1429,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"{\n",
-					"function",
-					"people35",
-					"2013",
-					"mega",
-					"201",
-					"vcard",
-					"2013",
-					"loja",
-					"<h2>",
-					"</h2>",
-					"block-views-empresas-block-1",
-					"location",
+					"<img name=\"",
+					"Fax",
+					"Additional",
+					"Name",
+					"100",
+					"revista",
+					"token",
+					"skip",
 					"search",
-					"filter",
-					"PDF",
-					"PDFlink",
-					"print",
-					" ."
+					"<img name=\"",
+					"setTimeout(function() { doAllMarkers(getlocations_map[key],",
+					"<img name=\"",
+					"Find",
+					"Find directions",
+					"Where are you",
+					"Directions",
+					"Zoom here",
+					"action directions",
+					"Directions",
+					"marker",
+					"mark",
+					"gsl_props_phone",
+					"gsl_props",
+					"address",
+					"store",
+					"phone",
+					"gsl_feature_filter_list",
+					"el",
+					"store-list",
+					"here",
+					"setzoom",
+					"<img src=\"/megamidia/sites/",
+					"<img name=\"",
+					"$base_url",
+					"#f0172e",
+					"#d61429",
+					"#e2162c",
+					"1210",
+					"<img name=\"",
+					"entry-slider",
+					"<img name=\"",
+					"http://www.paranatrade.com.br",
+					"<img name=\"",
+					"<img src=\"/sites/default",
+					"assai final",
+					"<img name=\"",
+					"Helvetica",
+					"<img name=\"",
+					"http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclustererplus/images/m2.png",
+					"src=\"/sites/default/files/",
+					"<img name=\"",
+					"src=\"email_mkt_market_",
+					"<img name=\"",
+					"#070a5f",
+					"#30338f",
+					"#d61429",
+					"#f0172e",
+					"#e2162c",
+					"<img name=\"",
+					"\nCopyright 2015 Blog do Dia. Todos os Direitos Reservados.",
+					"\nCopyright",
+					"\n			opyright 2015 Blog do Dia. Todos os Direitos Reservados.",
+					"2014",
+					"<img name=\"",
+					"<table style=\"display: inline-table;\" align=\"\"left\" border=\"0\"",
+					"<img name=\"",
+					"webnus_blog_readmore_text",
+					"webnus_blog_readmore_text()",
+					"readmore",
+					"read more",
+					"Read More",
+					"watermark",
+					"WordPress Slider Free Version",
+					"'Neucha', cursive",
+					"<img name=\"",
+					"Apologies, but no results were found. Perhaps searching will help find a related post",
+					"Next",
+					"Continue reading",
+					"HTML5 Video Player",
+					"<img name=\"",
+					"tertiary-actions",
+					"reply",
+					"font-family: Enriqueta;",
+					"#b06425",
+					"font-family: \"Berkshire Swash\", cursive;",
+					"#7e9a41",
+					"#d47c34",
+					"#82bfb9",
+					"#758f3d",
+					"#9dbb5e",
+					"#92b34c",
+					"cf meta",
+					"Berkshire Swash",
+					"COMMENTS",
+					"Search",
+					"says",
+					"replay",
+					"<img name=\"",
+					"font-family: 'fishfingersregular';",
+					"<img name=\"",
+					"eventos",
+					"font-family",
+					"<img name=\"",
+					"search-results",
+					"<img name=\"",
+					"evt",
+					"search",
+					"$video_miniatura",
+					"<img name=\"",
+					"finesse",
+					"upload",
+					"40",
+					"<img name=\"",
+					"style=\"display: inline-table;\" align=\"\"left\" ",
+					"<img name=\"",
+					"%;",
+					"<img name=\"",
+					"<table style=\"display: inline-table;\" align=\"\"left\" border=\"0\"",
+					"joneldesouza",
+					"//www.facebook.com",
+					"<img name=\"",
+					"font/",
+					"icon-close",
+					"<table style=\"display: inline-table;\" align=\"\"left\" border=\"",
+					"<img name=\"",
+					"<table style=\"display: inline-table;\" align=\"\"left\" border=\"0\"",
+					"style=\"display: inline-table;\" align=\"\"left\"",
+					"<img name=\""
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -729,6 +1564,107 @@
 				"regex": false,
 				"replace_history":
 				[
+					"<img style=\"display:block;\" name=\"",
+					"<img src=\"/sites/",
+					"<img style=\"display:block;\" name=\"",
+					"#008fce",
+					"#f3882a",
+					"<img style=\"display:block;\" name=\"",
+					"http://www.paranatrade.com.br/revistas",
+					"<img style=\"display:block;\" name=\"",
+					"<img src=\"/megamidia/sites/default",
+					"<img style=\"display:block;\" name=\"",
+					"src=\"/grupocarvalho/sites/default/files/",
+					"<img style=\"display:block;\" name=\"",
+					"src=\"http://emkt.megamidia.com.br/sites/default/files/email_mkt_market_",
+					"<img style=\"display:block;\" name=\"",
+					"#d61429",
+					"#e2162c",
+					"#070a5f",
+					"#30338f",
+					"<img style=\"display:block;\" name=\"",
+					"<table border=\"0\"",
+					"<img style=\"display:block;\" name=\"",
+					"#e2162c",
+					"font-family: \"Open Sans\";",
+					"#e2162c",
+					"#d61429",
+					"#f0172e",
+					"#e2162c",
+					"<img style=\"display:block;\" name=\"",
+					"<table border=\"0\"",
+					"<img style=\"display:block\" name=\"",
+					"/blogdia/sites/all/themes/diaadia/styles/base/font/",
+					"<table border=\"",
+					"<img style=\"display:block\" name=\"",
+					"<table border=\"0\"",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"/sites/all/themes/mercantilpdv/styles/images/",
+					"<img style=\"display:block\" name=\"r",
+					".page-radioassai",
+					"<img style=\"display:block;\" name=\"",
+					"1_assai_novidades_3",
+					"assai_novidades_3_r5_c1_novo",
+					"poll_link",
+					"count_url_access",
+					"|",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"<table border=\"0\"",
+					"<img style=\"display:block;\" name=\"",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"",
+					"02-edicao",
+					"<img style=\"display:block\" name=\"",
+					"",
+					"<img style=\"display:block;\" name=\"",
+					"<img styles=\"display:block\" name=\"",
+					"",
+					"<img style=\"display:block\" name=\"",
+					"<img src=\"<?php print $base_path; ?>sites/",
+					"<?php print $base_path; ?>",
+					"<img style=\"display:block\" name=\"",
+					"dia_email_10_2",
+					" dia_email_10_2",
+					" ",
+					"",
+					"<img style=\"display:block\" name=\"",
+					"group-<?php print $group_nr; ?>",
+					"<img style=\"display:block\" name=\"",
+					".show()",
+					"<img style=\"display:block\" name=\"",
+					"<img style=\"block\" name=\"",
+					"/sites/all/themes/mercantil/styles/base/font/",
+					"/styles/base/font/",
+					"/font/2",
+					"/font",
+					"font",
+					"sites/all/themes/mercantil/styles/images/sites",
+					"http://revistaclubecuritibano.megamidiagroup.com.br/218/",
+					"href=\"http://revistamuffato",
+					"href=\"http://revistaclubecuritibano",
+					"<img style=\"display:block\" name=\"",
+					"",
+					"<img style=\"display:block\" name=",
+					"width=\"650\"",
+					"<img style=\"display:block;\" name=",
+					"<img style=\"display:block;\"",
+					"às",
+					"http",
+					"</h2>",
+					"<h2>",
+					"style=\"height:75px; width:75px; margin-right:10px; float: left;\"",
+					"",
+					"</h3>",
+					"<h3>",
+					"</span><span class=\"arrow\"></span></h4>",
+					"http://www.paranatrade.com.br",
 					"<h3>",
 					"</h3>"
 				],
@@ -741,31 +1677,64 @@
 			"folders":
 			[
 				{
-					"follow_symlinks": true,
 					"path": "C:\\Winginx\\home"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/templates/views-view-unformatted--lojas--block-4.tpl.php",
+							"file": "/C/Winginx/home/seta/sites/all/themes/setaatacadista/styles/modules/content.less",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 785,
+								"buffer_size": 6076,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										449,
-										449
+										1789,
+										1789
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/LESS/LESS.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1485.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Winginx/home/seta/sites/all/themes/setaatacadista/templates/node--store.tpl.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5996,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5495,
+										5495
 									]
 								],
 								"settings":
@@ -774,6 +1743,39 @@
 									"remote_loading": false,
 									"synced": false,
 									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1125.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Winginx/home/seta/sites/all/themes/setaatacadista/scripts/main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1650,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										124,
+										124
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
@@ -785,20 +1787,20 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/C/Winginx/home/assai/sites/default/settings.php",
+							"buffer": 3,
+							"file": "/C/Winginx/home/paranatrade/sites/all/themes/prtradenews/page.tpl.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 23725,
+								"buffer_size": 27230,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										10355,
+										10355
 									]
 								],
 								"settings":
@@ -811,70 +1813,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2970.0,
+								"translation.y": 1890.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 871,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										871,
-										871
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/Winginx/home/grupocarvalho/sites/all/themes/carvalho/template.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 731,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
 							"type": "text"
 						}
 					]
@@ -911,6 +1853,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.csslint_result_view":
+			{
+				"height": 100.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -919,16 +1865,18 @@
 			{
 				"height": 133.0
 			},
-			"position": "0,2,3,-1,-1,-1,-1,563,1945,25,2601",
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,567,1949,29,2605",
 			"project": "",
 			"replace":
 			{
-				"height": 42.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -937,6 +1885,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -945,6 +1894,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -958,7 +1908,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 344.0,
+			"side_bar_width": 336.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

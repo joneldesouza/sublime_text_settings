@@ -1141,16 +1141,6 @@
 						"buffer_size": 1650,
 						"line_ending": "Unix"
 					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nSublimeLinter-jscs:\n------------------\n\n  SublimeLinter-jscs\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to jscs.\n  \n  ** IMPORTANT! **\n  \n  Before this plugin will activate, you *must*\n  follow the installation instructions here:\n  \n  https://github.com/SublimeLinter/SublimeLinter-jscs\n  \n  ",
-					"settings":
-					{
-						"buffer_size": 395,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"scratch": true
-					}
 				}
 			],
 			"build_system": "",
@@ -1161,9 +1151,13 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "pack",
+				"last_filter": "Package Control: ",
 				"selected_items":
 				[
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
 					[
 						"pack",
 						"Package Control: Install Package"
@@ -1171,10 +1165,6 @@
 					[
 						"Package Control: ins",
 						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Remove Package"
 					],
 					[
 						"i",
@@ -1211,18 +1201,13 @@
 			"expanded_folders":
 			[
 				"/C/Winginx/home",
-				"/C/Winginx/home/megamidia/sites",
-				"/C/Winginx/home/megamidia/sites/all",
-				"/C/Winginx/home/megamidia/sites/all/themes",
-				"/C/Winginx/home/megamidia/sites/all/themes/megamidia",
-				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/scripts",
-				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles",
-				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/styles/modules",
+				"/C/Winginx/home/paranatrade/sites",
+				"/C/Winginx/home/paranatrade/sites/all",
+				"/C/Winginx/home/paranatrade/sites/all/themes",
+				"/C/Winginx/home/paranatrade/sites/all/themes/prtradenews/img",
 				"/C/Winginx/home/seta",
 				"/C/Winginx/home/seta/sites",
 				"/C/Winginx/home/seta/sites/all",
-				"/C/Winginx/home/seta/sites/all/modules/getlocations/modules",
-				"/C/Winginx/home/seta/sites/all/modules/getlocations/modules/getlocations_fields",
 				"/C/Winginx/home/seta/sites/all/themes",
 				"/C/Winginx/home/seta/sites/all/themes/setaatacadista",
 				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/scripts",
@@ -1233,6 +1218,7 @@
 			],
 			"file_history":
 			[
+				"/C/Users/Megamidia/Desktop/Sites/Seta/Nova pasta/.htaccess",
 				"/C/Users/Megamidia/AppData/Roaming/Sublime Text 3/Installed Packages/JSCS-Formatter.sublime-package/JSCSFormatter.sublime-settings",
 				"/C/Winginx/home/megamidia/sites/all/themes/megamidia/scripts/main.js",
 				"/C/Winginx/home/seta/sites/all/themes/setaatacadista/scripts/responsiveslides.min.js",
@@ -1359,8 +1345,7 @@
 				"/C/Winginx/home/lacipcplatform/sites/all/themes/lacipc/js/custom.js",
 				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (14)/emkt_prtr_comercial_thais.html",
 				"/C/Users/Megamidia/Desktop/apolice/views/plugins/views_plugin_cache.inc",
-				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (12)/emkt_prtr_comercial_l.html",
-				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (13)/assai_receitas_marco_2015_alt.html"
+				"/C/Users/Megamidia/Desktop/Emkt/Nova pasta (12)/emkt_prtr_comercial_l.html"
 			],
 			"find":
 			{
@@ -1679,7 +1664,7 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 2,
 					"sheets":
 					[
 						{
@@ -1712,7 +1697,7 @@
 								"translation.y": 1485.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -1745,7 +1730,7 @@
 								"translation.y": 1125.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -1761,8 +1746,8 @@
 								"selection":
 								[
 									[
-										0,
-										0
+										124,
+										124
 									]
 								],
 								"settings":
@@ -1773,36 +1758,6 @@
 									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 395,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										395,
-										395
-									]
-								],
-								"settings":
-								{
-									"auto_indent": false,
-									"incomplete_sync": null,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"word_wrap": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1858,7 +1813,7 @@
 				"height": 133.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,567,1949,29,2605",
+			"position": "0,2,3,-32000,-32000,-1,-1,567,1949,29,2605",
 			"project": "",
 			"replace":
 			{
